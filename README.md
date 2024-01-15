@@ -2,4 +2,4 @@
 
 - 🔭 Hoje curso analise e desenvolvimento de sistemas
 - 🌱 Estudando Javascript
-- 📫 Contame-me no email: kaikpedretti79@gmail.com
+- 📫 Contate-me no email: kaikpedretti79@gmail.com
